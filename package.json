@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code-2015",
+  "version": "1.0.0",
+  "description": "Advent of code 2015 solutions with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armannds/advent-of-code-2015.git"
+  },
+  "author": "Ármann David Sigurdsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armannds/advent-of-code-2015/issues"
+  },
+  "homepage": "https://github.com/armannds/advent-of-code-2015#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "standard": "^14.3.1"
+  }
+}

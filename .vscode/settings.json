@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "standard.autoFixOnSave": true,
+    "prettier.requireConfig": true,
+    "editor.defaultFormatter": "numso.prettier-standard-vscode"
+}
